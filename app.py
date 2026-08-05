@@ -188,7 +188,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 st.markdown("""
 <div class="card" style="text-align:center;">
   <div class="secao-titulo">🏷️ Tudo que define a Duda & Pipi</div>
-  <span class="capsula">🩷 Melhor amiga</span>
+  <span class="capsula">🩷 Princess</span>
   <span class="capsula">🐾 Mãe da Pipi</span>
   <span class="capsula">✨ Incrível</span>
   <span class="capsula">🌸 Fofa demais</span>
@@ -203,15 +203,15 @@ st.markdown("""
   <span class="capsula">🧴 Perfume</span>
   <span class="capsula">💅 Estilosa</span>
   <span class="capsula">🎀 Barbie vibes</span>
-  <span class="capsula">💖 Amizade</span>
-  <span class="capsula">🌟 Especial</span>
+  <span class="capsula">💖 🇩🇪🚫</span>
+  <span class="capsula">🦷 TEM UM DENTE FAKES</span>
 </div>
 """, unsafe_allow_html=True)
 
 # ── RODAPÉ ────────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="rodape">
-  Feito com muito 🩷 em homenagem à Duda e à Pipi<br>
+  Feito com muito 🩷 (CÓDIGO!!!!)
   <small>🌸 ✨ 🌸 ✨ 🌸</small>
 </div>
 """, unsafe_allow_html=True)
