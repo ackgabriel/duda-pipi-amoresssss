@@ -130,7 +130,7 @@ st.markdown("""
 st.markdown("""
 <div class="card">
   <div class="titulo-principal">🩷 Duda & Pipi 🐾</div>
-  <div class="subtitulo">Uma homenagem à amizade mais fofa do mundo</div>
+  <div class="subtitulo">Uma homenagem as fofuras mais fofas do mundo</div>
   <div class="divisor">🌸 ✨ 🌸 ✨ 🌸</div>
 </div>
 """, unsafe_allow_html=True)
@@ -140,13 +140,9 @@ st.markdown("""
 <div class="card">
   <div class="secao-titulo">💌 Para a Duda</div>
   <div class="mensagem">
-    Você é daquelas pessoas que ilumina qualquer lugar por onde passa — com seu sorriso,
-    sua energia e o seu coração enorme. 🌸<br><br>
-    Ter você como amiga é um presente que a vida deu de presente.
-    Cada momento ao seu lado (e da nossa Pipi 🐾) é uma memória que fica guardada
-    com muito carinho.<br><br>
+    Você é a obra de cerâmica mais linda já feita por você mesmo, seu coração é maior que uma viagem da Lagoa até Sepetiba, seu perfume é tem notas de carinho e sabor de docinhos. 
+    Cada momento ao seu lado (e da Pipi 🐾) é uma memória que fica guardada, além do que, sabemos que a pipi me ama.
     Você é incrível, linda, forte e especial — e a Pipi com certeza concorda. 🩷<br><br>
-    <strong>Com todo amor do mundo,</strong><br>
     <span class="coracao">💖</span>
   </div>
 </div>
@@ -197,7 +193,14 @@ st.markdown("""
   <span class="capsula">✨ Incrível</span>
   <span class="capsula">🌸 Fofa demais</span>
   <span class="capsula">🌊 Praia</span>
-  <span class="capsula">🐕 Pomerânia</span>
+  <span class="capsula">🧴 Perfume</span>
+   <span class="capsula">🧴 Perfume</span>
+  <span class="capsula">🧴 Perfume</span>
+  <span class="capsula">🧴 Perfume</span>
+  <span class="capsula">🧴 Perfume</span>
+  <span class="capsula">🧴 Perfume</span>
+  <span class="capsula">🧴 Perfume</span>
+  <span class="capsula">🧴 Perfume</span>
   <span class="capsula">💅 Estilosa</span>
   <span class="capsula">🎀 Barbie vibes</span>
   <span class="capsula">💖 Amizade</span>
