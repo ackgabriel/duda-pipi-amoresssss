@@ -140,7 +140,7 @@ st.markdown("""
 <div class="card">
   <div class="secao-titulo">💌 Para a Duda</div>
   <div class="mensagem">
-    Você é a obra de cerâmica mais linda já feita por você mesmo, seu coração é maior que uma viagem da Lagoa até Sepetiba, seu perfume é tem notas de carinho e sabor de docinhos. 
+    Você é a obra de cerâmica mais linda já feita por você mesmo, seu coração é maior que uma viagem da Lagoa até Sepetiba, seu perfume tem notas de carinho e sabor de docinhos. 
     Cada momento ao seu lado (e da Pipi 🐾) é uma memória que fica guardada, além do que, sabemos que a pipi me ama.
     Você é incrível, linda, forte e especial — e a Pipi com certeza concorda. 🩷<br><br>
     <span class="coracao">💖</span>
