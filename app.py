@@ -203,8 +203,8 @@ st.markdown("""
   <span class="capsula">🧴 Perfume</span>
   <span class="capsula">💅 Estilosa</span>
   <span class="capsula">🎀 Barbie vibes</span>
-  <span class="capsula">💖 🇩🇪🚫</span>
-  <span class="capsula">🦷 TEM UM DENTE FAKES</span>
+  <span class="capsula">🇩🇪🚫</span>
+  <span class="capsula">🦷 TEM UM DENTE FAKE</span>
 </div>
 """, unsafe_allow_html=True)
 
