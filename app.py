@@ -154,7 +154,7 @@ st.markdown('<div class="secao-titulo">📸 Galeria — Momentos Especiais</div>
 
 # Informações de cada foto
 fotos_info = [
-    (os.path.join(BASE_DIR, "foto1.jpg"), "Duda & Pipi de Chapeuzinho 🧺"),
+    (os.path.join(BASE_DIR, "foto1.jpg"), "Duda & Pipi"),
     (os.path.join(BASE_DIR, "foto2.jpg"), "A dupla mais estilosa 🐄✨"),
     (os.path.join(BASE_DIR, "foto3.jpg"), "Pipi na praia 🌊"),
     (os.path.join(BASE_DIR, "foto4.jpg"), "Melhor abraço do mundo 🤗"),
